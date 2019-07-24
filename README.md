@@ -3,3 +3,4 @@
 - HH_model
 - PCA
 - MLP
+- Hopcrof
